@@ -21,3 +21,6 @@
 4 değeri roottan ve 5'den küçüktür, 1'den ve 3'ten büyük olması nedeniyle de 3'ün sağına yazıyoruz.
 
 2 değeri 7'den de 5'den de küçüktür, 1'den büyük ama 3'den küçüktür, bu yüzden 3'ün soluna yazıyoruz.
+
+
+![Cevap Resim]([https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png](https://www.hizliresim.com/76pgpiy))
