@@ -23,5 +23,5 @@
 2 değeri 7'den de 5'den de küçüktür, 1'den büyük ama 3'den küçüktür, bu yüzden 3'ün soluna yazıyoruz.
 
 
-![cevap anahtarı]([https://i.ibb.co/VWT1Z4N/IMG-9776.jpg](https://ibb.co/YfQg7Vr)
+![cevap anahtarı]([https://i.ibb.co/VWT1Z4N/IMG-9776.jpg](https://ibb.co/YfQg7Vr))
 
